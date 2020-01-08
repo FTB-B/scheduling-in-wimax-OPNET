@@ -1,0 +1,7 @@
+
+
+Campus Network.voip-1,Campus Network.node_5,164.38,0,voip-1 --> node_5
+
+Campus Network.video-1,Campus Network.node_5,167.31,1,video-1 --> node_5
+
+Campus Network.ftp-client,Campus Network.node_5,167.96,2,ftp-client --> node_5
